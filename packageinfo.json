@@ -1,0 +1,54 @@
+{
+	"language": "python3",
+	"name": "jk_php_tokenizer",
+	"version": "0.2020.3.9",
+	"meta": {
+		"description": "This python module is a tokenizer for configuration files written in PHP.",
+		"keywords": [
+			"tokenizing",
+			"tokenizer",
+			"php"
+		],
+		"license": "Apache 2.0",
+		"development_status": "alpha",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+		"wiki": {
+			"page": "DevDocs:jk_php_tokenizer"
+		}
+	},
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "........",
+			"devon_publish": false
+		},
+		{
+			"type": "pypy",
+			"project": "........",
+			"devon_publish": false
+		}
+	],
+	"source": {
+		"packages": [
+			"jk_php_tokenizer"
+		],
+		"extra_data_files": [
+		],
+		"extra_binary_files": [
+		]
+	},
+	"requirements": {
+		"python_packages": [
+			"jk_utils"
+		],
+		"python_packages_dev": [
+		]
+	}
+}
+
