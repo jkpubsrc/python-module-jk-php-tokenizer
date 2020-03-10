@@ -23,7 +23,7 @@ setup(
 		"License :: OSI Approved :: Apache Software License",
 	],
 	description = "This python module is a tokenizer for configuration files written in PHP.",
-	download_url = "https://github.com/jkpubsrc/......../tarball/0.2020.3.9",
+	download_url = "https://github.com/jkpubsrc/python-module-jk-php-tokenizer/tarball/0.2020.3.9",
 	include_package_data = False,
 	install_requires = [
 		"jk_utils",
@@ -38,7 +38,7 @@ setup(
 	packages = [
 		"jk_php_tokenizer",
 	],
-	url = "https://github.com/jkpubsrc/........",
+	url = "https://github.com/jkpubsrc/python-module-jk-php-tokenizer",
 	version = "0.2020.3.9",
 	zip_safe = False,
 	long_description = readme(),

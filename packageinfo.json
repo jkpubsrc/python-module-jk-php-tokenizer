@@ -25,13 +25,13 @@
 		{
 			"type": "github",
 			"user": "jkpubsrc",
-			"project": "........",
-			"devon_publish": false
+			"project": "python-module-jk-php-tokenizer",
+			"devon_publish": true
 		},
 		{
 			"type": "pypy",
-			"project": "........",
-			"devon_publish": false
+			"project": "jk_php_tokenizer",
+			"devon_publish": true
 		}
 	],
 	"source": {
