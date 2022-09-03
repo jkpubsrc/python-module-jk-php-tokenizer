@@ -9,7 +9,7 @@ This python module is a tokenizer for configuration files written in PHP.
 Information about this module can be found here:
 
 * [github.com](https://github.com/jkpubsrc/python-module-jk-php-tokenizer)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_php_tokenizer)
+* [pypi.org](https://pypi.org/project/jk-php-tokenizer/)
 
 Why this module?
 ----------------
