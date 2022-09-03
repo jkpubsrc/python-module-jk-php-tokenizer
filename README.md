@@ -8,7 +8,7 @@ This python module is a tokenizer for configuration files written in PHP.
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-php-tokenizer)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_php_tokenizer)
 
 Why this module?
